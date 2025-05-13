@@ -1,0 +1,113 @@
+% Elevator 1: Optimization Simulation Started.
+% Processing request: [2 -> 6] (Direction: 1).
+% Elevator starts processing for grouped requests: 
+% Total requests: 
+% [2 -> 6]
+% [4 -> 10]
+% [3 -> 8]
+% Elevator 1: Elevator at floor 1.
+0.170319 1
+% Elevator 1: Picked up client at floor 2.
+% Elevator 1: Elevator at floor 2.
+5.192694 2
+% Elevator 1: Picked up client at floor 3.
+% Elevator 1: Elevator at floor 3.
+10.216034 3
+% Elevator 1: Picked up client at floor 4.
+% Elevator 1: Elevator at floor 4.
+15.225395 4
+% Elevator 1: Elevator at floor 5.
+17.231605 5
+% Elevator 1: Dropped off client at floor 6.
+% Elevator 1: Elevator at floor 6.
+22.237577 6
+% Elevator 1: Elevator at floor 7.
+24.247372 7
+% Elevator 1: Dropped off client at floor 8.
+% Elevator 1: Elevator at floor 8.
+29.250773 8
+% Elevator 1: Elevator at floor 9.
+31.254933 9
+% Elevator 1: Dropped off client at floor 10.
+% Elevator 1: Completed grouped requests.
+% Processing request: [1 -> 5] (Direction: 1).
+% Elevator starts processing for grouped requests: 
+% Total requests: 
+% [1 -> 5]
+% [1 -> 10]
+% [1 -> 4]
+% Elevator 1: Elevator at floor 10.
+36.292849 10
+% Elevator 1: Elevator at floor 9.
+38.298481 9
+% Elevator 1: Elevator at floor 8.
+40.307045 8
+% Elevator 1: Elevator at floor 7.
+42.321437 7
+% Elevator 1: Elevator at floor 6.
+44.334446 6
+% Elevator 1: Elevator at floor 5.
+46.336264 5
+% Elevator 1: Elevator at floor 4.
+48.341323 4
+% Elevator 1: Elevator at floor 3.
+50.347951 3
+% Elevator 1: Elevator at floor 2.
+52.361871 2
+% Elevator 1: Picked up client at floor 1.
+% Elevator 1: Picked up client at floor 1.
+% Elevator 1: Picked up client at floor 1.
+% Elevator 1: Elevator at floor 1.
+63.406497 1
+% Elevator 1: Elevator at floor 2.
+65.411752 2
+% Elevator 1: Elevator at floor 3.
+67.435592 3
+% Elevator 1: Dropped off client at floor 4.
+% Elevator 1: Elevator at floor 4.
+72.444326 4
+% Elevator 1: Dropped off client at floor 5.
+% Elevator 1: Elevator at floor 5.
+77.449092 5
+% Elevator 1: Elevator at floor 6.
+79.463583 6
+% Elevator 1: Elevator at floor 7.
+81.478323 7
+% Elevator 1: Elevator at floor 8.
+83.480726 8
+% Elevator 1: Elevator at floor 9.
+85.484113 9
+% Elevator 1: Dropped off client at floor 10.
+% Elevator 1: Completed grouped requests.
+90.506928 10
+% Elevator 1: No requests. Elevator idle at floor 10.
+91.526873 10
+% Elevator 1: No requests. Elevator idle at floor 10.
+92.549999 10
+% Elevator 1: No requests. Elevator idle at floor 10.
+93.574778 10
+% Elevator 1: No requests. Elevator idle at floor 10.
+94.601895 10
+% Elevator 1: No requests. Elevator idle at floor 10.
+95.617975 10
+% Elevator 1: No requests. Elevator idle at floor 10.
+96.640534 10
+% Elevator 1: No requests. Elevator idle at floor 10.
+97.657139 10
+% Elevator 1: No requests. Elevator idle at floor 10.
+98.676766 10
+% Elevator 1: No requests. Elevator idle at floor 10.
+99.704383 10
+% Elevator 1: No requests. Elevator idle at floor 10.
+100.720037 10
+% Elevator 1: No requests. Elevator idle at floor 10.
+101.737942 10
+% Elevator 1: No requests. Elevator idle at floor 10.
+102.755151 10
+% Elevator 1: No requests. Elevator idle at floor 10.
+103.767584 10
+% Elevator 1: No requests. Elevator idle at floor 10.
+104.790690 10
+% Elevator 1: No requests. Elevator idle at floor 10.
+105.809305 10
+% Elevator 1: No requests. Elevator idle at floor 10.

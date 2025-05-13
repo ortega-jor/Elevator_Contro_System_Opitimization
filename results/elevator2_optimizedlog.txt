@@ -1,0 +1,143 @@
+% Elevator 2: Optimization Simulation Started.
+% Processing request: [9 -> 4] (Direction: -1).
+% Elevator starts processing for grouped requests: 
+% Total requests: 
+% [9 -> 4]
+% [8 -> 2]
+% [6 -> 1]
+% [7 -> 1]
+% [5 -> 1]
+% Elevator 2: Elevator at floor 10.
+0.262300 10
+% Elevator 2: Picked up client at floor 9.
+% Elevator 2: Elevator at floor 9.
+5.285753 9
+% Elevator 2: Picked up client at floor 8.
+% Elevator 2: Elevator at floor 8.
+10.307325 8
+% Elevator 2: Picked up client at floor 7.
+% Elevator 2: Elevator at floor 7.
+15.339401 7
+% Elevator 2: Picked up client at floor 6.
+% Elevator 2: Elevator at floor 6.
+20.358580 6
+% Elevator 2: Picked up client at floor 5.
+% Elevator 2: Elevator at floor 5.
+25.371009 5
+% Elevator 2: Dropped off client at floor 4.
+% Elevator 2: Elevator at floor 4.
+30.393459 4
+% Elevator 2: Elevator at floor 3.
+32.402852 3
+% Elevator 2: Dropped off client at floor 2.
+% Elevator 2: Elevator at floor 2.
+37.426931 2
+% Elevator 2: Dropped off client at floor 1.
+% Elevator 2: Dropped off client at floor 1.
+% Elevator 2: Dropped off client at floor 1.
+% Elevator 2: Completed grouped requests.
+% Processing request: [2 -> 1] (Direction: -1).
+% Elevator starts processing for grouped requests: 
+% Total requests: 
+% [2 -> 1]
+% Elevator 2: Elevator at floor 1.
+48.486072 1
+% Elevator 2: Picked up client at floor 2.
+% Elevator 2: Elevator at floor 2.
+53.502141 2
+% Elevator 2: Dropped off client at floor 1.
+% Elevator 2: Completed grouped requests.
+58.534443 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+59.546671 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+60.570515 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+61.594961 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+62.611862 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+63.630783 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+64.642798 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+65.653108 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+66.664730 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+67.676248 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+68.692699 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+69.711401 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+70.730333 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+71.748562 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+72.777396 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+73.802376 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+74.815174 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+75.840617 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+76.856687 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+77.875973 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+78.894033 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+79.910127 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+80.923477 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+81.937621 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+82.956748 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+83.973579 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+84.995278 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+86.022058 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+87.038300 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+88.057162 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+89.069054 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+90.086642 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+91.107908 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+92.132990 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+93.152169 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+94.174210 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+95.188390 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+96.198050 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+97.213236 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+98.225119 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+99.252705 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+100.280252 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+101.317376 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+102.333979 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+103.353887 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+104.367680 1
+% Elevator 2: No requests. Elevator idle at floor 1.
+105.382041 1
+% Elevator 2: No requests. Elevator idle at floor 1.

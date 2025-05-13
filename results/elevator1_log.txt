@@ -1,0 +1,130 @@
+% Elevator 1: Request received: Origin = 2, Destination = 6.
+% Elevator 1: Moving to floor 2 to pick up client.
+% Elevator 1: Elevator at floor 1.
+0.111618 1
+% Elevator 1: Picked up client at floor 2.
+% Elevator 1: Elevator at floor 2.
+5.121741 2
+% Elevator 1: Elevator at floor 3.
+7.135894 3
+% Elevator 1: Elevator at floor 4.
+9.141572 4
+% Elevator 1: Elevator at floor 5.
+11.144218 5
+% Elevator 1: Dropped off client at floor 6.
+% Elevator 1: Request received: Origin = 1, Destination = 5.
+% Elevator 1: Moving to floor 1 to pick up client.
+% Elevator 1: Elevator at floor 6.
+16.169678 6
+% Elevator 1: Elevator at floor 5.
+18.184951 5
+% Elevator 1: Elevator at floor 4.
+20.185893 4
+% Elevator 1: Elevator at floor 3.
+22.200812 3
+% Elevator 1: Elevator at floor 2.
+24.209445 2
+% Elevator 1: Picked up client at floor 1.
+% Elevator 1: Elevator at floor 1.
+29.232590 1
+% Elevator 1: Elevator at floor 2.
+31.245764 2
+% Elevator 1: Elevator at floor 3.
+33.252403 3
+% Elevator 1: Elevator at floor 4.
+35.254349 4
+% Elevator 1: Dropped off client at floor 5.
+% Elevator 1: Request received: Origin = 6, Destination = 1.
+% Elevator 1: Moving to floor 6 to pick up client.
+% Elevator 1: Elevator at floor 5.
+40.276292 5
+% Elevator 1: Picked up client at floor 6.
+% Elevator 1: Elevator at floor 6.
+45.299818 6
+% Elevator 1: Elevator at floor 5.
+47.313745 5
+% Elevator 1: Elevator at floor 4.
+49.316080 4
+% Elevator 1: Elevator at floor 3.
+51.329521 3
+% Elevator 1: Elevator at floor 2.
+53.330449 2
+% Elevator 1: Dropped off client at floor 1.
+% Elevator 1: Request received: Origin = 1, Destination = 10.
+% Elevator 1: Moving to floor 1 to pick up client.
+% Elevator 1: Picked up client at floor 1.
+% Elevator 1: Elevator at floor 1.
+61.387247 1
+% Elevator 1: Elevator at floor 2.
+63.394779 2
+% Elevator 1: Elevator at floor 3.
+65.401487 3
+% Elevator 1: Elevator at floor 4.
+67.416197 4
+% Elevator 1: Elevator at floor 5.
+69.422082 5
+% Elevator 1: Elevator at floor 6.
+71.424839 6
+% Elevator 1: Elevator at floor 7.
+73.431478 7
+% Elevator 1: Elevator at floor 8.
+75.443609 8
+% Elevator 1: Elevator at floor 9.
+77.445856 9
+% Elevator 1: Dropped off client at floor 10.
+% Elevator 1: Request received: Origin = 5, Destination = 1.
+% Elevator 1: Moving to floor 5 to pick up client.
+% Elevator 1: Elevator at floor 10.
+82.487660 10
+% Elevator 1: Elevator at floor 9.
+84.495780 9
+% Elevator 1: Elevator at floor 8.
+86.502476 8
+% Elevator 1: Elevator at floor 7.
+88.506073 7
+% Elevator 1: Elevator at floor 6.
+90.519649 6
+% Elevator 1: Picked up client at floor 5.
+% Elevator 1: Elevator at floor 5.
+95.526666 5
+% Elevator 1: Elevator at floor 4.
+97.532358 4
+% Elevator 1: Elevator at floor 3.
+99.538517 3
+% Elevator 1: Elevator at floor 2.
+101.540167 2
+% Elevator 1: Dropped off client at floor 1.
+% Elevator 1: Request received: Origin = 3, Destination = 8.
+% Elevator 1: Moving to floor 3 to pick up client.
+% Elevator 1: Elevator at floor 1.
+106.571443 1
+% Elevator 1: Elevator at floor 2.
+108.591949 2
+% Elevator 1: Picked up client at floor 3.
+% Elevator 1: Elevator at floor 3.
+113.624472 3
+% Elevator 1: Elevator at floor 4.
+115.636316 4
+% Elevator 1: Elevator at floor 5.
+117.646024 5
+% Elevator 1: Elevator at floor 6.
+119.657692 6
+% Elevator 1: Elevator at floor 7.
+121.664021 7
+% Elevator 1: Dropped off client at floor 8.
+126.679592 8
+% Elevator 1: No requests. Elevator idle at floor 8.
+127.699009 8
+% Elevator 1: No requests. Elevator idle at floor 8.
+128.721073 8
+% Elevator 1: No requests. Elevator idle at floor 8.
+129.741694 8
+% Elevator 1: No requests. Elevator idle at floor 8.
+130.760029 8
+% Elevator 1: No requests. Elevator idle at floor 8.
+131.783913 8
+% Elevator 1: No requests. Elevator idle at floor 8.
+132.804355 8
+% Elevator 1: No requests. Elevator idle at floor 8.
+133.814788 8
+% Elevator 1: No requests. Elevator idle at floor 8.

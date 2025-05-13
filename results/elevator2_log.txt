@@ -1,0 +1,144 @@
+% Elevator 2: Request received: Origin = 9, Destination = 4.
+% Elevator 2: Moving to floor 9 to pick up client.
+% Elevator 2: Elevator at floor 10.
+0.219728 10
+% Elevator 2: Picked up client at floor 9.
+% Elevator 2: Elevator at floor 9.
+5.228042 9
+% Elevator 2: Elevator at floor 8.
+7.241910 8
+% Elevator 2: Elevator at floor 7.
+9.247310 7
+% Elevator 2: Elevator at floor 6.
+11.248748 6
+% Elevator 2: Elevator at floor 5.
+13.265619 5
+% Elevator 2: Dropped off client at floor 4.
+% Elevator 2: Request received: Origin = 8, Destination = 2.
+% Elevator 2: Moving to floor 8 to pick up client.
+% Elevator 2: Elevator at floor 4.
+18.299965 4
+% Elevator 2: Elevator at floor 5.
+20.307071 5
+% Elevator 2: Elevator at floor 6.
+22.320794 6
+% Elevator 2: Elevator at floor 7.
+24.330587 7
+% Elevator 2: Picked up client at floor 8.
+% Elevator 2: Elevator at floor 8.
+29.353030 8
+% Elevator 2: Elevator at floor 7.
+31.366684 7
+% Elevator 2: Elevator at floor 6.
+33.374564 6
+% Elevator 2: Elevator at floor 5.
+35.375689 5
+% Elevator 2: Elevator at floor 4.
+37.382615 4
+% Elevator 2: Elevator at floor 3.
+39.403261 3
+% Elevator 2: Dropped off client at floor 2.
+% Elevator 2: Request received: Origin = 4, Destination = 10.
+% Elevator 2: Moving to floor 4 to pick up client.
+% Elevator 2: Elevator at floor 2.
+44.448598 2
+% Elevator 2: Elevator at floor 3.
+46.450780 3
+% Elevator 2: Picked up client at floor 4.
+% Elevator 2: Elevator at floor 4.
+51.461777 4
+% Elevator 2: Elevator at floor 5.
+53.466948 5
+% Elevator 2: Elevator at floor 6.
+55.482970 6
+% Elevator 2: Elevator at floor 7.
+57.483138 7
+% Elevator 2: Elevator at floor 8.
+59.491923 8
+% Elevator 2: Elevator at floor 9.
+61.504761 9
+% Elevator 2: Dropped off client at floor 10.
+% Elevator 2: Request received: Origin = 7, Destination = 1.
+% Elevator 2: Moving to floor 7 to pick up client.
+% Elevator 2: Elevator at floor 10.
+66.540790 10
+% Elevator 2: Elevator at floor 9.
+68.542860 9
+% Elevator 2: Elevator at floor 8.
+70.551513 8
+% Elevator 2: Picked up client at floor 7.
+% Elevator 2: Elevator at floor 7.
+75.566275 7
+% Elevator 2: Elevator at floor 6.
+77.566717 6
+% Elevator 2: Elevator at floor 5.
+79.581678 5
+% Elevator 2: Elevator at floor 4.
+81.584226 4
+% Elevator 2: Elevator at floor 3.
+83.601502 3
+% Elevator 2: Elevator at floor 2.
+85.613659 2
+% Elevator 2: Dropped off client at floor 1.
+% Elevator 2: Request received: Origin = 2, Destination = 1.
+% Elevator 2: Moving to floor 2 to pick up client.
+% Elevator 2: Elevator at floor 1.
+90.638275 1
+% Elevator 2: Picked up client at floor 2.
+% Elevator 2: Elevator at floor 2.
+95.653116 2
+% Elevator 2: Dropped off client at floor 1.
+% Elevator 2: Request received: Origin = 1, Destination = 4.
+% Elevator 2: Moving to floor 1 to pick up client.
+% Elevator 2: Picked up client at floor 1.
+% Elevator 2: Elevator at floor 1.
+103.687943 1
+% Elevator 2: Elevator at floor 2.
+105.693368 2
+% Elevator 2: Elevator at floor 3.
+107.701641 3
+% Elevator 2: Dropped off client at floor 4.
+112.724625 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+113.737375 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+114.758184 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+115.780139 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+116.804469 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+117.826105 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+118.843899 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+119.859790 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+120.885457 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+121.910930 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+122.938439 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+123.963480 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+124.983233 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+126.003565 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+127.025210 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+128.041824 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+129.069177 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+130.086540 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+131.102107 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+132.115837 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+133.140352 4
+% Elevator 2: No requests. Elevator idle at floor 4.
+134.158331 4
+% Elevator 2: No requests. Elevator idle at floor 4.
